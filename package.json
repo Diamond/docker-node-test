@@ -1,0 +1,10 @@
+{
+  "name": "nodetest",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Test NodeJS app running in Docker",
+  "author": "Brandon Richey <brichey@teladoc.com>",
+  "dependencies": {
+    "express": "*"
+  }
+}
